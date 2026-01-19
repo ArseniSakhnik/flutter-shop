@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:untitled/utils/constants/image_strings.dart';
 import 'package:untitled/utils/constants/text_strings.dart';
-import '../controllers_onboarding/onboarding_controller.dart';
-import 'onboarding/widgets/onboarding_dot_navigation.dart';
-import 'onboarding/widgets/onboarding_next_button.dart';
-import 'onboarding/widgets/onboarding_page.dart';
-import 'onboarding/widgets/onboarding_skip.dart';
+import '../../controllers_onboarding/onboarding_controller.dart';
+import 'widgets/onboarding_dot_navigation.dart';
+import 'widgets/onboarding_next_button.dart';
+import 'widgets/onboarding_page.dart';
+import 'widgets/onboarding_skip.dart';
 
 class OnBoardingScreen extends StatelessWidget {
   const OnBoardingScreen({super.key});
