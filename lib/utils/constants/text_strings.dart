@@ -61,4 +61,5 @@ class TTexts {
       "Welcome to Your Ultimate Shopping Destination: Your Account is Created, Unleash the Joy of Seamless Online Shopping!";
 
   static const String and = "and";
+  static const String TContinue = "Continue";
 }

@@ -38,6 +38,7 @@ flutter:
     - assets/logos/
     - assets/images/
     - assets/images/on_boarding_images/
+    - assets/images/animations/
 
 dependency_overrides:
   vector_math: ^2.1.6
