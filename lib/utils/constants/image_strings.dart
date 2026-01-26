@@ -34,4 +34,9 @@ TImages {
   static const String furnitureIcon = "assets/icons/categories/icons8-dining-chair-64.png";
   static const String jewerlyIcon = "assets/icons/categories/icons8-sparkling-diamond-64.png";
   static const String electronicsIcon = "assets/icons/categories/icons8-smartphone-64.png";
+
+  static const String promoBanner1 = "assets/products/promo-banner-1.png";
+  static const String promoBanner2 = "assets/products/promo-banner-2.png";
+  static const String promoBanner3 = "assets/products/promo-banner-3.png";
+  static const String promoBanner4 = "assets/products/promo-banner-4.png";
 }
