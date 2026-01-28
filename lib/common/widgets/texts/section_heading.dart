@@ -20,7 +20,7 @@ class TSectionHeading extends StatelessWidget {
     return Row(
       children: [
         Text(
-          'Popular categories',
+          title,
           style: Theme.of(context).textTheme.headlineSmall!.apply(color: textColor),
           maxLines: 1,
           overflow: TextOverflow.ellipsis,
